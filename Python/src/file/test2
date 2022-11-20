@@ -1,0 +1,4 @@
+{"type":"selector","dimension":"ip","value":"123","extractionFn":null}
+{"type":"selector","dimension":"ip","value":"123","extractionFn":null}
+{"type":"selector","dimension":"view.id","value":"111","extractionFn":null}
+{"type":"selector","dimension":"view.id","value":"111","extractionFn":null}

@@ -1,0 +1,19 @@
+person:
+  userName: "zhangsan \n lisi"
+# 单引号会将\n作为字符串输出，双引号会将\n作为换行输出
+  boss: true
+  birth: 2019/12/09
+  age: 18
+  interests: [spark,flink]
+  animals: [dog,bird]
+  score: {english: 80,math: 90}
+  salarys: [99.9, 999.99]
+  pet:
+    name: yiyi
+  allPets:
+    sick:
+      - {name: aa}
+      - {name: bb}
+    health:
+      - {name: cc}
+      - {name: dd}
